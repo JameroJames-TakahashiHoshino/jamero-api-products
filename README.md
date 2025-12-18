@@ -1,3 +1,5 @@
+To access type https://jamero-api-products.vercel.app/api/v1
+
 Product CRUD API (Node.js + Express + MongoDB)
 
 This project is a simple REST API for managing products. It uses Node.js, Express, and MongoDB (via Mongoose).
